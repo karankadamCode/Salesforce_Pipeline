@@ -1,0 +1,4 @@
+salesforce:
+  'uname' : 'karan.kadam@verinext.com.plgfull'  # Username for Salesforce
+  'pwd' : 'Pond@30027541'                       # Password for Salesforce
+  'sftoken' : 'xjMdlxWUVKrczGPlarHX0BNB'        # Security token for Salesforce (if applicable)
